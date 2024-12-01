@@ -70,6 +70,8 @@ The tool is also interactive, guiding users through a step-by-step process to se
 [James Bond Chat](https://github.com/sourceduty/James_Bond_Chat)
 <br>
 [Movie Prop Design](https://github.com/sourceduty/Movie_Prop_Design)
+<br>
+[Frankenstein Writer](https://github.com/sourceduty/Frankenstein_Writer)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
